@@ -4,6 +4,10 @@ We try to follow [http://keepachangelog.com/](http://keepachangelog.com/) recomm
 ## [Unreleased]
 _(add items here for easier creation of next log entry)_
 
+## [1.8.2] - 2018-08-21
+### Fixed
+- Exception when `findDOMNode` result in `null`
+
 ## [1.8.1] - 2018-02-11
 ### Fixed
 - Prevent menu from closing prematurely on mobile (#308)
